@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Ishfaq Khan
 
-<!--
-**ishfaqkhan-dev/ishfaqkhan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student at UST Bannu (2022–2026)  
+💻 Interested in Python, C++, and Software Development  
+🚀 Exploring AI, Data Science, and Real-World Projects  
+🧠 Passionate about Logical Thinking and Hands-on Learning  
+📍 Based in Isa Khel, Pakistan  
+📫 Email: ishfaqkhan.dev@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+
+- **Languages:** Python, C++, C#, HTML, CSS, JavaScript, ASP.NET MVC, SQL Server  
+- **Tools & IDEs:** VS Code, Git, GitHub, Jupyter Notebook, Replit, MiniAnaconda  
+- **Currently Learning:** NumPy, pandas, AI fundamentals
+
+---
+
+## 📊 GitHub Stats
+
+![Ishfaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishfaqkhan-dev&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishfaqkhan-dev&layout=compact&theme=radical)
+
+
+
