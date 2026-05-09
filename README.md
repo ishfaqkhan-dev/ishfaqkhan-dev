@@ -5,7 +5,7 @@
 🚀 Exploring AI, Data Science, and Real-World Projects  
 🧠 Passionate about Logical Thinking and Hands-on Learning  
 📍 Based in Isa Khel, Pakistan  
-📫 Email: ishfaqkhan.dev@gmail.com
+📫 Email: contact@codewithishfaq.com
 
 ---
 
