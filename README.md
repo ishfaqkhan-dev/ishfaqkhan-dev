@@ -11,7 +11,7 @@
     <td width="60%" valign="top">
       <h3>👋 Hi there, I'm Ishfaq!</h3>
       <p>I am a passionate <b>BS Computer Science Student</b> at <b>UST Bannu</b> (2022–2026). I specialize in building intelligent systems, full-stack web applications, and cross-platform mobile apps.</p>
-      <p>🌐 <b>Based in:</b> Trag, Pakistan</p>
+      <p>🌐 <b>Based in:</b> Isa-Khel, Pakistan</p>
       <p>🧠 <b>Passionate about:</b> Machine Learning, AI & Deep Learning, and building community tutorials.</p>
       <p>📫 <b>Get in touch:</b> <a href="mailto:contact@codewithishfaq.com">contact@codewithishfaq.com</a></p>
     </td>
