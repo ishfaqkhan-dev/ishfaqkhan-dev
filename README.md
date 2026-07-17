@@ -62,14 +62,13 @@
 
 ---
 
-## 📽️ Recently Creating & Uploading Courses
+## 📽️ Ongoing & Upcoming Courses
 
-Main development, programming aur AI se mutaliq concepts ko aam faham zaban mein samjhane ke liye dynamic course content aur tutorials create kar raha hoon. Stay tuned for new updates!
+I create dynamic educational content and programming tutorials to break down complex tech concepts into easy-to-understand guides. Here is what I am currently working on:
 
-* 🚀 **Flutter & Dart Mobile App Development Course** (Ongoing/Uploading)
-* 🤖 **AI & Machine Learning Foundations** (Concepts & Implementations)
-* 💻 **Full-Stack development with .NET MVC & C#**
-
+* 📱 **Flutter & Dart Mobile App Development Course** (Ongoing / Uploading)
+* 📊 **Data Science & Analytics with NumPy** (Ongoing / Uploading)
+* 🤖 **Machine Learning Foundations** (Upcoming)
 ---
 
 ## 📈 GitHub Analytics
